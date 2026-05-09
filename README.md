@@ -100,7 +100,8 @@ To design an **interactive Excel dashboard** that provides a clear overview of:
 - 🔹 City-wise comparison helps identify stronger sales regions  
 - 🔹 Visual performance tracking simplifies decision-making for managers
 
+
 ## 📸 Dashboard Preview 
-![Snapshot of the EXCEL Dashboard](
+![Snapshot of the EXCEL Dashboard](https://github.com/GracySingh2003/EXCEL-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20EXCEL%20Dashboard.png)
 
 ⭐ *If you found this project useful, consider giving it a star!*
